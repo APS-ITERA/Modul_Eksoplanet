@@ -1,6 +1,6 @@
 Diberikan data kecepatan radial 2 bintang yang sudah bersih. Data ini merupakan data kecepatan radial yang diambil dari paper rujukan
-    + 51 Pegasi, [https://iopscience.iop.org/article/10.1086/304088 Marcy et al., 1997, ApJ 481, 926-935]
-    + HD 3651, [https://iopscience.iop.org/article/10.1086/375027 Fischer et al., 2003, ApJ 590, 1081-1087]
+    + 51 Pegasi, [Marcy et al., 1997, ApJ 481, 926-935](https://iopscience.iop.org/article/10.1086/304088)
+    + HD 3651, [Fischer et al., 2003, ApJ 590, 1081-1087](https://iopscience.iop.org/article/10.1086/375027)
 
 Untuk setiap sistem, cobalah bersama teman kelompokmu (maksimum 3) untuk memperoleh parameter orbit eksoplanet.
     + Buatlah plot antara waktu dengan kecepatan radial (kurva kecepatan radial).
